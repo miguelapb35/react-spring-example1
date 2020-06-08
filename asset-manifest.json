@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-spring-example1/static/css/main.d5e610ae.chunk.css",
+    "main.js": "/react-spring-example1/static/js/main.43fdb5c8.chunk.js",
+    "main.js.map": "/react-spring-example1/static/js/main.43fdb5c8.chunk.js.map",
+    "runtime-main.js": "/react-spring-example1/static/js/runtime-main.3866e63f.js",
+    "runtime-main.js.map": "/react-spring-example1/static/js/runtime-main.3866e63f.js.map",
+    "static/js/2.ac9f07cd.chunk.js": "/react-spring-example1/static/js/2.ac9f07cd.chunk.js",
+    "static/js/2.ac9f07cd.chunk.js.map": "/react-spring-example1/static/js/2.ac9f07cd.chunk.js.map",
+    "index.html": "/react-spring-example1/index.html",
+    "precache-manifest.5e2978c7d99f097520157cb777a541f6.js": "/react-spring-example1/precache-manifest.5e2978c7d99f097520157cb777a541f6.js",
+    "service-worker.js": "/react-spring-example1/service-worker.js",
+    "static/css/main.d5e610ae.chunk.css.map": "/react-spring-example1/static/css/main.d5e610ae.chunk.css.map",
+    "static/js/2.ac9f07cd.chunk.js.LICENSE.txt": "/react-spring-example1/static/js/2.ac9f07cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3866e63f.js",
+    "static/js/2.ac9f07cd.chunk.js",
+    "static/css/main.d5e610ae.chunk.css",
+    "static/js/main.43fdb5c8.chunk.js"
+  ]
+}
